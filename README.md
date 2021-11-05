@@ -1,2 +1,1 @@
-# PageRank
-This a project about implementing PageRank Algorithm of google  
+# cs2521assignment2
